@@ -1,0 +1,4 @@
+content of file 6
+add content to file 666
+modify data file 6
+aaa
